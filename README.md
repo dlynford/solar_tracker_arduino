@@ -1,3 +1,4 @@
 # solar_tracker_arduino
-This project utilizes an prefabbed kit with an Arduino R3, to track the changing direction of sunlight and orient a solar cell for maximum power collection.
-The kit was purchased from Brown dog gaddgets https://browndoggadgets.dozuki.com, and the arduino code was supplied by them. 
+This project utilized a prefabricated kit with an Arduino R3 microprocessor, to track sunlight changes and orient a solar power cell for maximum output. The kit and its arduino code was sourced from: Brown Dog Gaddgets at https://browndoggadgets.dozuki.com.
+
+Components included: laser cut plywood infrastructure, connecting 8-32 screws and bolts, a R3 model arduino, custom arduino shields, light resisting diodes, a small solar cell, and led voltage readout.
